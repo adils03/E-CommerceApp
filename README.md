@@ -18,7 +18,7 @@ API Resource: https://fakestoreapi.com/
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(1).png)
-![Screenshot 2](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(2).png)
-![Screenshot 3](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(3).png)
-![Screenshot 4](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(4).png)
+![Screenshot 1](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot%20(1).png)
+![Screenshot 2](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot%20(2).png)
+![Screenshot 3](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot%20(3).png)
+![Screenshot 4](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot%20(4).png)
