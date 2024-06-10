@@ -15,3 +15,10 @@ This repository contains the project files for the Mobile Application Developmen
 The Simple E-Commerce Application is designed to provide users with a straightforward shopping experience. Users can view a list of available products, add items to their cart, and complete purchases securely. The application aims to simplify the online shopping process for users while offering essential features such as product browsing, cart management, and order placement.
 
 API Resource: https://fakestoreapi.com/
+
+## Screenshots
+
+![Screenshot 1](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(1).png)
+![Screenshot 2](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(2).png)
+![Screenshot 3](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(3).png)
+![Screenshot 4](https://github.com/adils03/e-commerceapp/tree/main/screenshots/screenshot(4).png)
