@@ -1,16 +1,17 @@
-# ecommerceapp
+# Mobile Application Development Course Project
 
-A new Flutter project.
+## Overview
+This repository contains the project files for the Mobile Application Development course offered at Erciyes University, Computer Engineering. The project is developed as a part of the course curriculum under the guidance of Asst. Prof. FEHİM KÖYLÜ.
 
-## Getting Started
+## Project Details
 
-This project is a starting point for a Flutter application.
+### Course Information
+- **University**: Erciyes University
+- **Department**: Computer Engineering
+- **Course**: Mobile Application Development
+- **Instructor**: Asst. Prof. FEHİM KÖYLÜ
 
-A few resources to get you started if this is your first Flutter project:
+## Project Description
+The Simple E-Commerce Application is designed to provide users with a straightforward shopping experience. Users can view a list of available products, add items to their cart, and complete purchases securely. The application aims to simplify the online shopping process for users while offering essential features such as product browsing, cart management, and order placement.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API Resource: https://fakestoreapi.com/
