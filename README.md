@@ -17,7 +17,7 @@ The Simple E-Commerce Application is designed to provide users with a straightfo
 API Resource: https://fakestoreapi.com/
 
 ## Screenshots
-
+<img src="https://github.com/adils03/E-CommerceApp/blob/main/screenshots/screenshot%20(1).jpg" alt="Screenshot 1" width="300" height="200">
 ![Screenshot 1](https://github.com/adils03/E-CommerceApp/blob/main/screenshots/screenshot%20(1).jpg)
 ![Screenshot 2](https://github.com/adils03/E-CommerceApp/blob/main/screenshots/screenshot%20(2).jpg)
 ![Screenshot 3](https://github.com/adils03/E-CommerceApp/blob/main/screenshots/screenshot%20(3).jpg)
